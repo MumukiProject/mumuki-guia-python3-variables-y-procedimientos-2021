@@ -1,8 +1,9 @@
 ---
-name: Variables y Procedimientos 2021
+name: Variables y Procedimientos
 locale: es
 type: learning
 beta: false
+teacher_info: ''
 language: python3
 id_format: "%05d"
 order: []
