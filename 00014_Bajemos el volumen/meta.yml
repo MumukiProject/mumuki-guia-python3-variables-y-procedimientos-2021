@@ -1,0 +1,45 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`volumen` es una variable local"
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`volumen` es una variable global"
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`subir_volumen` es una función"
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`subir_volumen` es un procedimiento"
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`bajar_volumen` es una función"
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`bajar_volumen` es un procedimiento"
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`volumen_recomendado` es una función"
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`volumen_recomendado` es un procedimiento"
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`subir_volumen` retorna un número"
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`volumen_recomendado` retorna un número"
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`volumen_recomendado` retorna un booleano"
+  checked: true
+name: Bajemos el volumen
