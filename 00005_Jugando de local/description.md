@@ -24,5 +24,6 @@ peso_maximo_del_equipaje_en_gramos = 5000
 
 def puede_llevar(peso_equipaje):
   return peso_equipaje <= peso_maximo_del_equipaje_en_gramos
-  
+````
+ 
 > Definí la función `` que .....
