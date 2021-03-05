@@ -9,10 +9,10 @@ def pasar():
 
 > Probalo en la consola haciendo:
 
-> * `agua_del_mate`
-> * `agua_del_termo`
-> * `cebar_mate()`
-> * `agua_del_mate`
-> * `pasar()`
-> * `agua_del_mate`
-> * `agua_del_termo`
+> 1. `agua_del_mate`
+> 2. `agua_del_termo`
+> 3. `cebar_mate()`
+> 4. `agua_del_mate`
+> 5. `pasar()`
+> 6. `agua_del_mate`
+> 7. `agua_del_termo`
