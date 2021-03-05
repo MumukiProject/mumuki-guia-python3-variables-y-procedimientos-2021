@@ -19,4 +19,4 @@ Si bien tanto funciones como procedimientos nos ayudan a simplificar nuestras ta
 
 ¡Ahora que sabes la diferencia!
 
-> Definí un procedimiento `aumentar_fortuna` que duplique el valor de la variable global `pesos_en_mi_billetera`. No declares la variable, ya lo hicimos por vos (con una cantidad secreta de dinero :wink:)
+> Definí un procedimiento `aumentar_fortuna` que duplique el valor de la variable global `pesos_en_mi_billetera`. No declares la variable, ya lo hicimos por vos (con una cantidad secreta de dinero) :wink:
