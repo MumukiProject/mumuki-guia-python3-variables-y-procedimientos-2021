@@ -1,0 +1,1 @@
+peso_promedio_persona_en_kilogramos = 75
