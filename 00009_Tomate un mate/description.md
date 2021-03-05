@@ -2,4 +2,4 @@ Con todo lo que aprendimos hasta acá estaría bueno cortar para tomar unos mate
 
 Sabiendo que al cebar un mate la cantidad de agua del termo disminuye...
 
-> ... declará la variable global `agua_del_termo` (que representa los mililitros que tiene el termo) con un valor inicial de 1000. También definí el procedimiento `cebar_mate` que disminuye 30 mililitros del agua en el termo.
+> ...inicializá la variable global `agua_del_termo` (que representa los mililitros que tiene el termo) con 1000. También definí el procedimiento `cebar_mate` que disminuye 30 mililitros del agua en el termo.
