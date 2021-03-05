@@ -20,7 +20,7 @@ def pasar_un_dia_normal():
   # indicamos a Python que vamos a realizar modificaciones sobre la variable global
   global dias_sin_accidentes_con_velocirraptores
 
-  # dentro de un procedimiento, la actualizamos
+  # acá adentro la actualizamos
   dias_sin_accidentes_con_velocirraptores = dias_sin_accidentes_con_velocirraptores + 1
 ```
 
