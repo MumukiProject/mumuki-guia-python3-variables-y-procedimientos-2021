@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: SourceContains:global
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: aumentar_fortuna
+  inspection: Not:Returns
