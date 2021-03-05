@@ -1,13 +1,13 @@
   
   def test_vaciar_termo_deja_en_0_el_agua_del_termo(self):
-    global pesos_en_mi_billetera
-    agua_en_termo = 1000
-    cebar_mate()
-    self.assertEqual(agua_en_termo, 970)
+    global agua_del_termo
+    agua_del_termo = 1000
+    vaciar_termo()
+    self.assertEqual(agua_del_termo, 0)
 
 
-  def test_cebar_3_mates_disminuye_en_90_ml_el_agua_del_termo(self):
-    global pesos_en_mi_billetera
-    agua_en_termo = 1000
-    cebar_mate()
-    self.assertEqual(agua_en_termo, 910)
+  def test_llenar_termo_deja_en_1000_el_agua_del_termo(self):
+    global agua_del_termo
+    agua_del_termo = 80
+    llenar_termo()
+    self.assertEqual(agua_del_termo, 1000)
