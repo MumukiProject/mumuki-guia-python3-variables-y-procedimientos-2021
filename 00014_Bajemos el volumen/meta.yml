@@ -20,7 +20,7 @@ choices:
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: "`subir_volumen` es un procedimiento"
-  checked: false
+  checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: "`bajar_volumen` es una función"
   checked: false
@@ -28,18 +28,18 @@ choices:
   value: "`bajar_volumen` es un procedimiento"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`volumen_recomendado` es una función"
+  value: "`es_volumen_saludable` es una función"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`volumen_recomendado` es un procedimiento"
+  value: "`es_volumen_saludable` es un procedimiento"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: "`subir_volumen` retorna un número"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`volumen_recomendado` retorna un número"
+  value: "`es_volumen_saludable` retorna un número"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`volumen_recomendado` retorna un booleano"
+  value: "`es_volumen_saludable` retorna un booleano"
   checked: true
 name: Bajemos el volumen

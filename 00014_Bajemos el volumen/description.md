@@ -11,7 +11,7 @@ def bajar_volumen(decibeles):
 	global volumen
 	volumen -= decibeles
 
-def volumen_recomendado():
+def es_volumen_saludable():
 	return volumen <= 75
 ```
 
