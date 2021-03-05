@@ -9,13 +9,13 @@ def el_doble_es_mayor_a_diez(numero):
     return 0
 ```
 
-Las variables inicializadas dentro de un `def`, conocidas como _variables locales_, no presentan mayor misterio. Sin embargo, hay que tener un particular cuidado :warning: ya que sólo se pueden utilizar dentro del `def` en cuestión. Si quiero referenciarla desde un programa:
+Las variables inicializadas dentro de un `def`, conocidas como _variables locales_, no presentan mayor misterio. Sin embargo, hay que tener un particular cuidado :warning: ya que sólo se pueden utilizar dentro del `def` en cuestión. Si quiero referenciarla desde un programa...
 
 ```python
 el_cuadruple = el_doble * 4
 ```
 
-Boom, ¡se romperá! :collision:
+...¡boom! ¡se romperá! :collision:
 
 Sin embargo, las variables inicializadas directamente en el programa, conocidas como _variables globales_, pueden ser leídas desde cualquier `def`. Por ejemplo:
 
