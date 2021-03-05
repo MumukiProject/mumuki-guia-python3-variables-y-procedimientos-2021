@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cebar_mate
+  inspection: Not:Returns
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: tomar_mate
+  inspection: Not:Returns
