@@ -1,0 +1,11 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cebar_mate
+  inspection: SourceContains:global
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Assigns:agua_en_termo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cebar_mate
+  inspection: Not:Returns
