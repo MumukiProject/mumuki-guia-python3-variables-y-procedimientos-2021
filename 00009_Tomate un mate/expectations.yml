@@ -5,7 +5,7 @@ expectations:
   inspection: SourceContains:global
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: Assigns:agua_en_termo
+  inspection: Assigns:agua_del_termo
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: cebar_mate
   inspection: Not:Returns
