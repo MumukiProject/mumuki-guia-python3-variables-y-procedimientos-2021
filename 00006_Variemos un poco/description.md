@@ -27,10 +27,10 @@ def pasar_un_dia_normal():
   dias_sin_accidentes_con_velocirraptores = dias_sin_accidentes_con_velocirraptores + 1
 ```
 
-> Probá en la consola lo siguiente:
+> Probá en la consola, en orden, lo siguiente:
 >
-> * `dias_sin_accidentes_con_velocirraptores`
-> * `pasar_un_dia_normal()`
-> * `pasar_un_dia_normal()`
-> * `pasar_un_dia_normal()`
-> * `dias_sin_accidentes_con_velocirraptores`
+> 1. `dias_sin_accidentes_con_velocirraptores`
+> 2. `pasar_un_dia_normal()`
+> 3. `pasar_un_dia_normal()`
+> 4. `pasar_un_dia_normal()`
+> 5. `dias_sin_accidentes_con_velocirraptores`
