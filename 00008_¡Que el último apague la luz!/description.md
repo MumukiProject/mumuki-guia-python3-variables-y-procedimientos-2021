@@ -1,6 +1,4 @@
-¿Te acordás del operador de negación `not` :thought_balloon: ? Si tengo un booleano representado por `tiene_hambre`, su complemento será `not tiene_hambre`.
-
-Ahora que contamos con variables, podemos usarlo también para modelar casos de alternancia como por ejemplo prender y apagar una luz :bulb::
+Ahora que contamos con variables, podemos darle un nuevo uso al operador de negación `not`: modelar casos de alternancia como por ejemplo prender y apagar una luz :bulb::
 
 ```python
 luz_prendida = True
