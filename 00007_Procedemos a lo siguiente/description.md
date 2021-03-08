@@ -1,6 +1,4 @@
-¿Notaste algo distinto en la "función" del ejercicio anterior? :mag:
-
-Veámosla nuevamente:
+¿Notaste algo distinto en la "función" del ejercicio anterior :mag: ? Veámosla nuevamente:
 
 ```python
 def pasar_un_dia_normal():
@@ -10,9 +8,7 @@ def pasar_un_dia_normal():
 
 ¡No tiene `return`! Pero, ¿las funciones no tienen todas un `return`? :face_with_monocle:
 
-Correcto, es que en realidad `pasar_un_dia_normal()` no es una función, ¡es un **procedimiento**! :open_mouth:
-
-Si bien tanto funciones como procedimientos se definen de la misma manera y ambos nos ayudan a simplificar nuestras tareas, tienen algunas diferencias:
+Correcto, es que en realidad `pasar_un_dia_normal()` no es una función, ¡es un **procedimiento**! :open_mouth: Si bien tanto funciones como procedimientos se definen de la misma manera y ambos nos ayudan a simplificar nuestras tareas, tienen algunas diferencias:
 
 * las funciones retornan un valor y no tienen efecto, es decir, no cambian nuestras variables;
 * los procedimientos no retornan nada y tienen un efecto al ser invocados. 
