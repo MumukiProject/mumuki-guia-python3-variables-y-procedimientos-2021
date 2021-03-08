@@ -3,11 +3,14 @@ _Todo muy lindo hasta acá, pero ¿por qué se llaman variables si no varian?_ :
 Bueno, es que en realidad si pueden variar :sunglasses: . Veamos un ejemplo:
 
 ```python
-# inicializamos la variable...
+# inicializamos la variable para que valga 0...
 dias_sin_accidentes_con_velocirraptores = 0
 
 # ...y más adelante, la actualizamos
 dias_sin_accidentes_con_velocirraptores = dias_sin_accidentes_con_velocirraptores + 1
+
+# ¡ahora vale 1!
+dias_sin_accidentes_con_velocirraptores
 ```
 
 Sin embargo, hay que tener un cuidado particular si trabajamos con variables globales: si queremos modificarlas dentro de una función, deberemos anteponer `global` a su nombre:
