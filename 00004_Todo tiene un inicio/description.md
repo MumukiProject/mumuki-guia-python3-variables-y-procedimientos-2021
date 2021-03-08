@@ -5,6 +5,8 @@ Para evitar errores :x: , antes de utilizar una variable tenemos que darle un va
 > ```python
 > ム ascensor_sobrecargado(1)
 False
+> ム ascensor_sobrecargado(100)
+False
 > ```
 >
 > Ah, y ¿cuál es el peso promedio de una persona? ¿y la carga máxima? Para eso utilizaremos dos variables globales:
