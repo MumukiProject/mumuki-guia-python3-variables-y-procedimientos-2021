@@ -1,8 +1,6 @@
-¿Te acordás del operador `not` ? Se lo denomina negación o complemento lógico y sirve para negar un valor booleano.
+¿Te acordás del operador de negación `not` :thought_balloon: ? Si tengo el booleano representado por `tiene_hambre`, el complemento será `not tiene_hambre`.
 
-Si tengo el booleano representado por `tiene_hambre`, el complemento será `not tiene_hambre`.
-
-¿Y esto para qué sirve? :thought_balloon: Por ejemplo, para modelar casos de alternancia como por ejemplo prender y apagar una luz :bulb::
+Ahora que contamos con variables, podemos usarlo también para modelar casos de alternancia como por ejemplo prender y apagar una luz :bulb::
 
 ```python
 luz_prendida = True
