@@ -34,3 +34,5 @@ def pasar_un_dia_normal():
 > 3. `pasar_un_dia_normal()`
 > 4. `pasar_un_dia_normal()`
 > 5. `dias_sin_accidentes_con_velocirraptores`
+
+> Podés usar las flechas de tu teclado para navegar entre comandos ejecutados previamente. :arrow_up_small: :arrow_down_small:
