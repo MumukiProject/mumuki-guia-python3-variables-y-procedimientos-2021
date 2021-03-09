@@ -1,4 +1,4 @@
-Ahora que contamos con variables, podemos darle un nuevo uso al operador de negación `not`: modelar casos de alternancia como por ejemplo prender y apagar una luz :bulb::
+Ahora que conocimos a los procedimientos podemos modelar casos de alternancia utilizando `not`. Por ejemplo, prender y apagar una luz :bulb::
 
 ```python
 luz_prendida = True
