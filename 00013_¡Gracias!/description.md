@@ -7,7 +7,7 @@ def pasar():
   pass
 ```
 
-> Probalo en la consola haciendo:
+> Probalo en la consola haciendo lo siguiente en orden:
 
 > 1. `agua_del_mate`
 > 2. `agua_del_termo`
