@@ -1,5 +1,5 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: cargar_termo
-  inspection: Not:Returns
+  binding: "*"
+  inspection: DeclaresProcedure:cargar_termo
