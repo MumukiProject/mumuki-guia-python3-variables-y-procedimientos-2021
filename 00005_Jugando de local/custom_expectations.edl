@@ -1,0 +1,2 @@
+expectation "`saludar_a` debe utilizar `final_de_saludo` 3 veces":
+  within `saludar_a` count(uses `final_de_saludo`) = 3;
