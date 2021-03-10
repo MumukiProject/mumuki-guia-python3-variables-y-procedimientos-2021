@@ -10,4 +10,6 @@
     global agua_del_termo
     agua_del_termo = 1000
     cebar_mate()
+    cebar_mate()
+    cebar_mate()
     self.assertEqual(agua_del_termo, 910)
