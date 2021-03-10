@@ -1,4 +1,4 @@
-def saludar_a(quien, horario):
+def (quien, horario):
   if horario < 12:
     return "¡Buenos días " + quien + "!"
   elif horario < 19:
