@@ -2,9 +2,9 @@ Hay veces que no queremos, o simplemente no tiene sentido, que nuestras variable
 
 ```python
 def el_mas_largo_sin_espacios(un_string, otro_string):
-  #str.strip retorna un nuevo string sin espacios al principio ni al final
   un_string_sin_espacios = str.strip(un_string)
   otro_string_sin_espacios = str.strip(otro_string)
+  
   if(len(un_string_sin_espacios) > len(otro_string_sin_espacios)):
     return un_string_sin_espacios
   else:
