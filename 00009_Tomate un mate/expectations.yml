@@ -7,8 +7,5 @@ expectations:
   binding: "*"
   inspection: Assigns:agua_del_termo
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: cebar_mate
-  inspection: Not:Returns
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: DeclaresProcedure:cebar_mate
