@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Declares:saludar_a
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: saludar_a
+  inspection: Assigns:final_de_saludo
