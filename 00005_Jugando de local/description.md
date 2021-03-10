@@ -28,4 +28,6 @@ def puede_llevar(peso_equipaje):
   return peso_equipaje <= peso_maximo_del_equipaje_en_gramos
 ````
  
-> Definí la función `` que .....
+> Como te habrás dado cuenta, nunca nos olvidamos de saludar ¡y ahora no es la excepción!
+
+> Modificá la función `saludar_a` para evitar la repetición de lógica. Para eso utilizá una variable local `final_de_saludo`.
