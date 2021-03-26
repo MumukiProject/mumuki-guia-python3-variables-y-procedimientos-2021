@@ -18,8 +18,3 @@
     global peso_promedio_persona_en_kilogramos
     peso_promedio_persona_en_kilogramos = 80
     self.assertTrue(ascensor_sobrecargado(5))
-
-
-
-
-
