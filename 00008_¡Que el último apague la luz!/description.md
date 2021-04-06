@@ -10,4 +10,4 @@ def apretar_interruptor():
 
 ¡Ahora te toca a vos!
 
-> Definí el procedimiento `usar_cierre` para que podamos abrir y cerrar nuestra una mochila. :school_satchel:
+> Definí el procedimiento `usar_cierre` para que podamos abrir y cerrar nuestra mochila. :school_satchel:
