@@ -1,6 +1,6 @@
 _Todo muy lindo hasta acá, pero ¿por qué se llaman variables si no varian?_ :face_with_raised_eyebrow:
 
-Bueno, es que en realidad si pueden variar :sunglasses: . Veamos un ejemplo:
+Bueno, es que en realidad sí pueden variar :sunglasses: . Veamos un ejemplo:
 
 ```python
 # inicializamos la variable para que valga 0...
