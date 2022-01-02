@@ -4,7 +4,7 @@ Ya que vas entendiendo cómo se **asignan** las variables, te traemos algo para 
 > 
 > ```python
 > def suma_sin_sentido():
->	return numero + 8
+>	  return numero + 8
 > ```
 >
 > Invocala en la consola y fijate qué sucede.
