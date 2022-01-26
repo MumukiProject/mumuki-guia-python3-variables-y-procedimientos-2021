@@ -1,2 +1,2 @@
 expectation "Es necesario utilizar la variable `final_de_saludo` en las tres ramas de la alternativa condicional para evitar repetir lógica. Tené en cuenta qué secuencias se repiten para incluirlas dentro de esta variable.":
-  count(uses `final_de_saludo`) = 3;
+  count(uses `final_de_saludo`) > 3;
