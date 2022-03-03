@@ -1,4 +1,4 @@
-Mirá el siguiente programa con atención :eyes: :
+Fijate en el siguiente programa :
 
 ```python
 volumen = 40
