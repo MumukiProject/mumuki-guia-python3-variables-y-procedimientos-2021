@@ -42,4 +42,4 @@
     global agua_del_termo
     agua_del_termo = 840
     llenar_termo()
-    self.assertEqual(agua_del_termo, 1000)        
+    self.assertEqual(agua_del_termo, 1000)
