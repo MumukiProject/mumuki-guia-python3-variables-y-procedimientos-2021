@@ -10,5 +10,14 @@ expectations:
   binding: "*"
   inspection: DeclaresComputationWithArity0:tomar_mate
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: "*"
+  binding: cebar_mate
+  inspection: Assigns:agua_del_termo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: cebar_mate
   inspection: Assigns:agua_del_mate
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Assigns:agua_del_mate:WithNumber:0
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Assigns:agua_del_termo:WithNumber:1000

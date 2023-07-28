@@ -10,37 +10,26 @@ teacher_info: ''
 manual_evaluation: false
 progressive_expectations: false
 choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`volumen` es una variable local"
+- value: "`volumen` es una variable local"
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`volumen` es una variable global"
+- value: "`volumen` es una variable global"
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`subir_volumen` es una función"
+- value: "`subir_volumen` es una función"
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`subir_volumen` es un procedimiento"
+- value: "`subir_volumen` es un procedimiento"
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`bajar_volumen` es una función"
+- value: "`bajar_volumen` es una función"
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`bajar_volumen` es un procedimiento"
+- value: "`bajar_volumen` es un procedimiento"
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`es_volumen_saludable` es una función"
+- value: "`es_volumen_saludable` es una función"
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`es_volumen_saludable` es un procedimiento"
+- value: "`es_volumen_saludable` es un procedimiento"
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`subir_volumen` retorna un número"
+- value: "`subir_volumen` retorna un número"
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`es_volumen_saludable` retorna un número"
+- value: "`es_volumen_saludable` retorna un número"
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`es_volumen_saludable` retorna un booleano"
+- value: "`es_volumen_saludable` retorna un booleano"
   checked: true
 name: Bajemos el volumen
