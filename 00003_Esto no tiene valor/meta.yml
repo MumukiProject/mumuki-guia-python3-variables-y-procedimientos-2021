@@ -10,5 +10,6 @@ manual_evaluation: false
 progressive_expectations: false
 choices: []
 goal:
-  kind: last_query_fails
+  kind: last_query_matches
+  regexp: "^suma_sin_sentido\\s*\\(\\s*\\)\\s*$"
 name: Esto no tiene valor
